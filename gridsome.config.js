@@ -8,7 +8,7 @@ module.exports = {
   siteName: 'Unwronging Instincts',
   siteDescription: "Thoughts and discussions on a potpourri of topics",
   siteUrl: 'https://vatsalmehra.com',
-  titleTemplate: `%s | Bleda`,
+  titleTemplate: `%s`,
   icon: 'src/favicon.png',
 
   transformers: {
